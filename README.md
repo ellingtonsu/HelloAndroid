@@ -8,6 +8,5 @@
 ## Discussion
 1. How to make the "passwoed"-EditText as width as screen?
 2. How to set the text of "OK"-Button by refering String resource?
-3. How to import class of EditText and Button?
-4. Fix the error in MainActivity.java.
-5. Find and fix the cause of exception while running HelloAndroid. 
+3. Fix the error in MainActivity.java.
+4. Find and fix the cause of exception while running HelloAndroid. 
